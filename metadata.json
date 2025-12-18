@@ -1,0 +1,8 @@
+{
+  "name": "Burning Vows: YouTube Optimizer Pro",
+  "description": "A high-performance dashboard for film editors to optimize long-form narrative content for the YouTube algorithm, featuring retention mapping, scene-by-scene instructions, and technical export automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
